@@ -1,9 +1,9 @@
 title: Jonathan Mastin # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/file:///Users/mastinfitness/Desktop/JMas.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
-  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+  Data-Driven Analyst who loves solving problems <br><br> 
+  Passionate about Fitness and Investing  <br><br>
+  <a href="https://www.linkedin.com/in/jonathanmastin1913/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+theme: Jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
