@@ -9,8 +9,8 @@
 The life expectancy compared to the country's GDP and the surprising results.
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+#### [Biodeversity of National Parks](/biodiversity_national_parks)
+<img src="images/hans-veth-Er7IsQ7cw-o-Unsplash.jpg"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
