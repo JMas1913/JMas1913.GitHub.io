@@ -10,7 +10,7 @@ The life expectancy compared to the country's GDP and the surprising results.
 
 ---
 #### [Biodeversity of National Parks](/biodiversity_national_parks)
-<img src="images/hans-veth-Er7IsQ7cw-o-Unsplash.jpg"/>
+<img src="images/hans-veth-Er7IsQ7cw-o-unsplash.jpg"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
@@ -38,6 +38,8 @@ What are the top math schools in the state?
 - [Project 5 Title](http://example.com/)
 
 ---
+
+
 
 
 
