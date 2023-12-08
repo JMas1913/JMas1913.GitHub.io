@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Life Expectancy VS Country's GDP](/Life_expectancy_and_gdp)
-<img src="images/simon-berger-HSy0QXIRafg-unsplash.jpg"/>
+<img src="images/simon-berger-HSy0QXIRafg-unsplash (1).jpg"/>
 The life expectancy compared to the country's GDP and the surprising results.
 
 ---
