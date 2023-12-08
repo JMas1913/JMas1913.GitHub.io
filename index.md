@@ -21,12 +21,9 @@ My final write-up for Avery Smith's 21 Days To Data project covering New York Ci
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [Google_Cyclistic_Case_Study_1](https://github.com/JMas1913/Google_Cyclistic_Case_Study_1)
+<img src="images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.jpg"/>
+This project was completed in R.
 
 ---
 
