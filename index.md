@@ -26,6 +26,14 @@ My final write-up for Avery Smith's 21 Days To Data project covering New York Ci
 This project was completed in R.
 
 ---
+#### [Historical Stock Data](https://github.com/JMas1913/historical_stock_data)
+<img src="images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg"/>
+My final write-up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+
+
+---
+
+---
 
 ### Category Name 2
 
