@@ -22,7 +22,7 @@ My final write-up for Avery Smith's 21 Days To Data project covering New York Ci
 
 ---
 #### [Google_Cyclistic_Case_Study_1](https://github.com/JMas1913/Google_Cyclistic_Case_Study_1)
-<img src="images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.jpg"/>
+<img src="images/dovile-ramoskaite-x8rDSFN2DpY-unsplash.jpg"/>
 This project was completed in R.
 
 ---
