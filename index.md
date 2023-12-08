@@ -9,9 +9,9 @@
 The life expectancy compared to the country's GDP and the surprising results.
 
 ---
-#### [Biodeversity of National Parks](/biodiversity_national_parks)
+#### [Biodiversity of National Parks](/biodiversity_national_parks)
 <img src="images/hans-veth-Er7IsQ7cw-o-unsplash.jpg"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, I explored the biodiversity of National Parks and focused on bats.  
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
