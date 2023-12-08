@@ -15,8 +15,8 @@ For this project, I explored the biodiversity of National Parks and focused on b
 The data is based on real data, but this project is mostly fictional.
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [23andMe Sales Data](https://github.com/JMas1913/Data_Project_23andMe/tree/main)
+<img src="images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.jpg"/>
 My final write-up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
