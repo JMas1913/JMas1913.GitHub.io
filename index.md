@@ -38,7 +38,7 @@ Calories burned during different activities to determine if they are an activity
 
 ---
 #### [E-commerce Sales Profit Data](https://github.com/JMas1913/analysis_of_e-commerce_sales_profits_data)
-<img src="images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg"/>
+<img src="images/carlos-muza-hpjSkU2UYSU-unsplash.jpg"/>
 My final write-up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
