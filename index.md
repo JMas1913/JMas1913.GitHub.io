@@ -44,7 +44,7 @@ My final write-up for Avery Smith's 21 Days To Data project covering New York Ci
 
 ---
 
-### Category Name 2
+### Educational Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
