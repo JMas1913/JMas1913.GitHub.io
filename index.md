@@ -17,18 +17,18 @@ The data is based on real data, but this project is mostly fictional.
 ---
 #### [23andMe Sales Data](https://github.com/JMas1913/Data_Project_23andMe/tree/main)
 <img src="images/sangharsh-lohakare-Iy7QyzOs1bo-unsplash.jpg"/>
-My final write-up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+This project examined the sales of the 23andME product and compared them based on gender. Who bought more, why was there a difference between men and women, and other questions. The results are surprising.
 
 
 ---
 #### [Google_Cyclistic_Case_Study_1](https://github.com/JMas1913/Google_Cyclistic_Case_Study_1)
 <img src="images/dovile-ramoskaite-x8rDSFN2DpY-unsplash.jpg"/>
-This project was completed in R.
+This project was completed in R. This project examined who purchased a bike, how long the ride was, and whether the people were members or just one-off users. These questions and more were analyzed. This way, the company knew how to price the tickets. 
 
 ---
 #### [Historical Stock Data](https://github.com/JMas1913/historical_stock_data)
 <img src="images/maxim-hopman-fiXLQXAhCfk-unsplash.jpg"/>
-My final write-up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+In this project, I analyzed the top 10 socks of the stock market for the past decade. This analysis shows what happened when COVID-19 hit and how they bounced back or not.
 
 
 ---
