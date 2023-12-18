@@ -39,18 +39,18 @@ Calories burned during different activities to determine if they are an activity
 ---
 #### [E-commerce Sales Profit Data](https://github.com/JMas1913/analysis_of_e-commerce_sales_profits_data)
 <img src="images/carlos-muza-hpjSkU2UYSU-unsplash.jpg"/>
-My final write-up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+This project analyzes the differences between buying products directly from an e-commerce store compared to Amazon. 
 
 ---
 #### [SQL_Healthcare_Analysis](https://github.com/JMas1913/Healthcare_analysis)
 <img src="images/robert-linder-IV6Ge9vzmHE-unsplash.jpg"/>
-My final write-up for Avery Smith's 21 Days To Data project covering New York City crime data.
+In this project, I used a dataset from a hospital. I answered questions like which specialties have the most procedures, which patients had the shortest hospital stays when admitted through the ER, and whether nurses treating patients from different backgrounds the same.
 
 
 ---
 #### [Tableau Analysis of Massachusetts Education System from 2017](https://public.tableau.com/views/Mass_Education_Project/MassachusettsEducationOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/rut-miit-oTglG1D4hRA-unsplash.jpg"/>
-My final write-up for Avery Smith's 21 Days To Data project covering New York City crime data.
+This Tableau project analyzed the Massachusetts public school education system. I analyzed nearly 1 million students and which class sizes did best to help the other schools increase their graduation rate.
 
 
 
