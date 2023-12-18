@@ -34,7 +34,7 @@ My final write-up for Avery Smith's 21 Days To Data project covering New York Ci
 ---
 #### [Calories Burned during Activities](https://github.com/JMas1913/Calories_burned)
 <img src="images/artur-luczka-N1zRvlXf-IM-unsplash (1).jpg"/>
-Calories burned during different activities to determine if they are an activity like making the bed, an exercise like lifting weights, or a sport like competitive swimming.
+Calories burned during different activities to determine if they are an activity like making the bed, an exercise like lifting weights, or a sport like competitive swimming based on a weight class.
 
 ---
 #### [E-commerce Sales Profit Data](https://github.com/JMas1913/analysis_of_e-commerce_sales_profits_data)
