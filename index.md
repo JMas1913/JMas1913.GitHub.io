@@ -9,7 +9,7 @@
 The life expectancy compared to the country's GDP and the surprising results.
 
 ---
-#### [Biodiversity of National Parks](/biodiversity_national_parks)
+#### [Biodiversity of National Parks](https://github.com/JMas1913/biodiversity_national_parks)
 <img src="images/hans-veth-Er7IsQ7cw-o-unsplash.jpg"/>
 For this project, I explored the biodiversity of National Parks and focused on bats.
 The data is based on real data, but this project is mostly fictional.
